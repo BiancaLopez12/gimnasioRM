@@ -1,1 +1,1 @@
-# gimnasioRM
+# gimnasio-rm
